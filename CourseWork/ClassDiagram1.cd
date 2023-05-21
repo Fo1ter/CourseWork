@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clDate">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQABAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clStudent">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAIBCAAEBAEIBgAAAAAAAABAAAIAEAAAAAAAAgAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clList">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAEAAAAIAAgIgQEAEAAMAABAEAAAgAAAAAAgAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clMenu">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAEAAAAAAAAAgAAAAAABAEAAAAAAAgA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Date">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ExamsRecords">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAgAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StudentNode">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAAAAAAAAAAAQQACQAFAAAQAAAAAIAAAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ListNode">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Sex">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mark">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAwAAAAAAIAAAAgAAAAAAAAIAIAAAAAAAAE=</HashCode>
+      <FileName>CourseWork.cpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
